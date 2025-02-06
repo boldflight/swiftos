@@ -1,9 +1,9 @@
 # SwiftOS
 An intelligent OS for digital sovereignty
-## Team
-people who most engaged from the swift forums
-[@MinerMinerMain](https://forums.swift.org/u/minerminermain) [@RandomHashTags](https://forums.swift.org/u/randomhashtags) [@zamderax](https://forums.swift.org/u/zamderax) 
 
+## Team
+people who engaged the most from the swift forums
+[@MinerMinerMain](https://forums.swift.org/u/minerminermain) [@RandomHashTags](https://forums.swift.org/u/randomhashtags) [@zamderax](https://forums.swift.org/u/zamderax) 
 # Problem
 what problem are we trying to solve? How can this be 10x better?
 ## I want…
@@ -67,7 +67,7 @@ On device LLM Inference powered by Modular Max Engine [A Fast, Scalable Gen AI I
 * integrated deep in the core of the OS
 * not in the kernel, but at the root of user space
 ## Composable Widgets and Types
-instead of windows, want to think in widgets
+* instead of windows, want to think in widgets
 * the OS handles the UI, devs only need to write business logic
   * the OS theme can be customized by the user, its adaptive but consistent
   * everything should be like composable Notion / AnyType / Canva / Craft / NotePlan
@@ -94,8 +94,8 @@ instead of windows, want to think in widgets
   * Custom
   * etc.
 
-Remember everything is composable, you could have a table full of docs, or a doc with embedded tables. 
-Furthermore tasks could be in a kanban table, or spread out alongside docs on a 2D canvas; the data is always in sync, its just different views for the same data
+* Remember everything is composable, you could have a table full of docs, or a doc with embedded tables. 
+* Furthermore tasks could be in a kanban table, or spread out alongside docs on a 2D canvas; the data is always in sync, its just different views for the same data
 
 ### Library
 * library: file / media browser (finder + photos behavior)
