@@ -104,6 +104,7 @@ On device LLM Inference powered by Modular Max Engine [A Fast, Scalable Gen AI I
 * read (text, ebooks, pdfs, etc.)
   * read only prevents accidental editing
 * write (text, presentations, todos, code)
+  * one click publish as website or send as email
 * programming
   * this is where the IDE lives, its just a special Doc
   * its like VS Code, Swift Playgrounds, all in one
@@ -130,6 +131,12 @@ On device LLM Inference powered by Modular Max Engine [A Fast, Scalable Gen AI I
 * compose layers on top with your other types, notes, pictures, whatever
 ### Communicator
 * all forms of communication (chat, email, video calls, etc.)
+* composable with Docs for email, both reading and writing
+  * use markdown to write emails like [MailMate](https://freron.com/)
+  * integrate with gmail like https://mimestream.com/
+* contacts show up as a composable Library widget
+  * has built in CRM functionality, and updates from all social media sources
+  * like https://www.busymac.com/busycontacts/ or [Clay](https://clay.earth/)
 * also integrate with social media, both decentralized and traditional
 * show web views if needed
 ### 2D Canvas
