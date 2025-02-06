@@ -4,6 +4,7 @@ An intelligent OS for digital sovereignty
 ## Team
 people who engaged the most from the swift forums
 [@MinerMinerMain](https://forums.swift.org/u/minerminermain) [@RandomHashTags](https://forums.swift.org/u/randomhashtags) [@zamderax](https://forums.swift.org/u/zamderax) 
+* development at [schwiftyos](https://github.com/orgs/schwiftyos/repositories)
 # Problem
 what problem are we trying to solve? How can this be 10x better?
 ## I want…
