@@ -16,7 +16,7 @@ what problem are we trying to solve? How can this be 10x better?
 * Developing apps to be 10x simpler - the OS should handle the UI, dev just handle business logic
 
 ### I want the Apple ecosystem experience without having to pay Apple prices
-* I want a kickass computer without insance Apple SSD pricing
+* I want a kickass computer without insane Apple SSD pricing
 * I want my stuff synced, secure, private, and stable, without constantly paying cloud subscription fees
 * I want the benefits of a walled garden (close hardware software integration) without the gate being locked by someone else; I want to hold the keys myself (decentralization)
 * everythig just works, without paying subscriptions forever
